@@ -1,4 +1,4 @@
-# Python-Festival_Sales_Analysis
+# Python-Exploratory_Data_Analysis
 
 Hello Everyone,
 I'm excited to share this project where I utilized the power of Python and its various libraries such as Pandas, NumPy, Matplotlib, and Seaborn to conduct an in-depth analysis of Festival sales data.
